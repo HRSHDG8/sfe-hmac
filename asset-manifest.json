@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sfe-hmac/static/css/main.21ce7470.css",
+    "main.js": "/sfe-hmac/static/js/main.554440a8.js",
+    "static/js/787.927c9102.chunk.js": "/sfe-hmac/static/js/787.927c9102.chunk.js",
+    "index.html": "/sfe-hmac/index.html",
+    "main.21ce7470.css.map": "/sfe-hmac/static/css/main.21ce7470.css.map",
+    "main.554440a8.js.map": "/sfe-hmac/static/js/main.554440a8.js.map",
+    "787.927c9102.chunk.js.map": "/sfe-hmac/static/js/787.927c9102.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ce7470.css",
+    "static/js/main.554440a8.js"
+  ]
+}
